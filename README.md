@@ -3,13 +3,4 @@
 </p>
 
 # Info
-Packet Client is an MCBE Utility mod made by: Packet, Deq, Swed, NRG and Founder
-
-Packet Client is a fork of the Horion Client
-
-
-## Credits
-
-The original Horion developers
-
-Steve's Noob#2585
+buy packetv3 today at https://discord.gg/packetv3
